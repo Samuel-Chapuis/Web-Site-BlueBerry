@@ -1,0 +1,141 @@
+body{
+	margin: 0;
+	font-family: Arial, sans-serif;
+	background-size: cover;
+  }
+
+  body.index-bg {
+	background-image: url('../images/background.png');
+  }
+
+  body.mods-bg {
+	background-image: url('../images/background_mods.png');
+  }
+
+  body.installation-bg {
+	background-image: url('../images/background_installation.png');
+  }
+  
+  .container {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+  }
+  
+  header {
+	text-align: center;
+	margin-bottom: 30px;
+  }
+  
+  h1 {
+	font-size: 70px;
+	color: #fff;
+  }
+  
+  h2 {
+	font-size: 40px;
+	color: #fff;
+  }
+
+  .ip {
+	font-size: 25px;
+	font-weight: bold;
+	color: #fff;
+  }
+  
+  p {
+	font-size: 20px;
+	color: #fff;
+  }
+  
+  .discord-link {
+	display: inline-block;
+	padding: 10px 20px;
+	background-color: #7289DA;
+	color: #fff;
+	text-decoration: none;
+	border-radius: 5px;
+  }
+  
+  .discord-link:hover {
+	background-color: #5e6a91;
+  }
+  
+  ul {
+	list-style: none;
+	padding: 0;
+  }
+  
+  li {
+	color: #fff;
+  }
+  
+  img {
+	max-width: 100%;
+	height: auto;
+  }
+
+  .navbar {
+	background-color: #f2f2f2;
+	padding: 10px 20px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between; /* Pour aligner les éléments à l'extrême gauche et à l'extrême droite */
+	color: #666; /* Couleur de texte gris */
+  }
+  
+  .logo {
+	width: 50px;
+	margin-right: 20px;
+  }
+
+  nav {
+	flex: 1; /* Pour que le conteneur de navigation prenne tout l'espace disponible */
+	display: flex;
+	justify-content: flex-start; /* Pour aligner les liens à gauche */
+  }
+  
+  nav ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+  }
+  
+  nav ul li {
+	display: inline;
+	margin-right: 20px;
+  }
+  
+  nav ul li a {
+	text-decoration: none;
+	color: #666;
+  }
+  
+  nav ul li a:hover {
+	text-decoration: underline;
+  }
+
+  .ipb {
+	margin-left: 20px; /* Ajoute de l'espace à droite de l'adresse IP */
+	color: #555; /* Couleur de texte gris */
+	font-weight: bold; /* Texte en gras */
+  }
+  
+  .installation-guide {
+	display: flex;
+	justify-content: space-between;
+  }
+  
+  .installation-guide-left,
+  .installation-guide-right {
+	width: 60%;
+  }
+
+  .installation-guide-left{
+	margin-right: 25%;
+  }
+  
+  .installation-guide img {
+	max-width: 100%;
+	height: auto;
+  }
