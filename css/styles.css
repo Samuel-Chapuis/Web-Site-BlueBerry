@@ -165,3 +165,31 @@ body{
 	text-align: center; 
 	margin-bottom: 20px; 
   }
+
+  .mods-list {
+	display: flex;
+	flex-wrap: wrap; /* Permet le retour à la ligne automatique */
+	justify-content: space-between; /* Espacement entre les colonnes */
+  }
+  
+  .mod-column {
+	width: 23%; /* Largeur de chaque colonne */
+	margin-bottom: 20px; /* Espacement entre les colonnes */
+  }
+  
+  .mod-column h2 {
+	font-size: 30px; /* Taille du titre du mod */
+  }
+  
+  .mod-column p {
+	font-size: 16px; /* Taille du texte de description du mod */
+  }
+
+  .mod-bot p{
+	font-size: 16px;
+	display: flex;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+  
