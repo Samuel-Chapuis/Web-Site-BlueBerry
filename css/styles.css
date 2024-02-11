@@ -48,7 +48,7 @@ body{
 	color: #fff;
   }
   
-  .discord-link {
+  .blue-button {
 	display: inline-block;
 	padding: 10px 20px;
 	background-color: #7289DA;
@@ -57,7 +57,7 @@ body{
 	border-radius: 5px;
   }
   
-  .discord-link:hover {
+  .blue-button:hover {
 	background-color: #5e6a91;
   }
   
@@ -128,7 +128,7 @@ body{
   
   .installation-guide-left,
   .installation-guide-right {
-	width: 60%;
+	width: 100%;
   }
 
   .installation-guide-left{
@@ -136,6 +136,32 @@ body{
   }
   
   .installation-guide img {
-	max-width: 100%;
+	max-width: 120%;
 	height: auto;
+  }
+
+  .installation-guide-right {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Alignement vertical du contenu */
+}
+
+.installation-guide-right h2,
+.installation-guide-right p,
+.installation-guide-right img {
+  text-align: center; /* Alignement horizontal du texte */
+  margin-bottom: 20px; /* Espacement entre les éléments */
+}
+
+.installation-guide-left {
+	display: flex;
+	flex-direction: column;
+	align-items: center; /* Alignement vertical du contenu */
+  }
+  
+  .installation-guide-left h2,
+  .installation-guide-left p,
+  .installation-guide-left img {
+	text-align: center; 
+	margin-bottom: 20px; 
   }
