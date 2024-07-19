@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Soutenir le serveur</title>
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="icon" type="image/png" href="images/logo.png">
+</head>
+<body class="don-bg">
+  <div class="navbar">
+    <img src="images/logo.png" alt="Logo du serveur" class="logo">
+    <nav>
+      <ul>
+        <li><a href="index.html">Accueil</a></li>
+        <li><a href="installation.html">Guide d'installation</a></li>
+        <li><a href="mods.html">Liste des mods</a></li>
+        <li><a href="don.html">Soutenir le serveur</a></li>
+      </ul>
+    </nav>
+    <span class="ipb">mc.berryblue.fr</span>
+  </div>
+  <div class="container">
+    <header>
+      <h1>Paliers de donation :</h1>
+      <p>Afin de contribuer à la vie du serveur, nous vous proposons de faire un don, en retribution de quoi vous pouvez obtenir de légers avantages in-game. <br><br>Les avantages in-game seront à réclamer auprès d'un administrateur dès la confirmation du don.</p>
+
+      <div class="mods-list">
+        <div class="don-column">
+          <h2>1€</h2>
+          <p>A définir</p>
+        </div>
+        <div class="don-column">
+          <h2>5€</h2>
+          <p>A définir</p>
+        </div>
+        <div class="don-column">
+          <h2>10€</h2>
+          <p>A définir</p>
+        </div>
+        <div class="don-column">
+          <h2>15€</h2>
+          <p>A définir</p>
+        </div>
+        <div class="don-column">
+          <h2>20€</h2>
+          <p>A définir</p>
+        </div>
+        <div class="don-column">
+          <h2>25€</h2>
+          <p>A définir</p>
+        </div>
+        <div class="don-column">
+          <h2>30€</h2>
+          <p>A définir</p>
+        </div>
+        <div class="don-column">
+          <h2>50€</h2>
+          <p>A définir</p>
+        </div>
+        <div class="don-column">
+          <h2>75€</h2>
+          <p>A définir</p>
+        </div>
+        <div class="don-column">
+          <h2>100€</h2>
+          <p>A définir</p>
+        </div>
+        <div class="don-column">
+          <h2>150€</h2>
+          <p>A définir</p>
+        </div>
+        <div class="don-column">
+          <h2>200€</h2>
+          <p>A définir</p>
+        </div>
+      </div>
+      <div>
+        <div id="donate-button-container">
+          <div id="donate-button"></div>
+          <script src="https://www.paypalobjects.com/donate/sdk/donate-sdk.js" charset="UTF-8"></script>
+          <script>
+          PayPal.Donation.Button({
+          env:'production',
+          hosted_button_id:'6ZNAMH7E7Q58E',
+          image: {
+          src:'../images/don.png',
+          alt:'Donate with PayPal button',
+          title:'PayPal - The safer, easier way to pay online!',
+          }
+          }).render('#donate-button');
+          </script>
+          </div>
+        </div>
+    </header>
+    <header>
+        <div class="mod-bot">
+            <p>Merci d'avance de votre participation et bon jeu à vous !</p>
+        </div>
+    </header>
+  </div>
+</body>
+</html>

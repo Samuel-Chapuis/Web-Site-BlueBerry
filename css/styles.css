@@ -49,6 +49,21 @@ body{
   background-color: rgba(0, 0, 0, 0.5); /* Filtre de luminosité appliqué */
   z-index: -1;
 	}
+
+  body.don-bg {
+	background-image: url('../images/background_donation.png');
+  }
+
+  body.don-bg::after {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Filtre de luminosité appliqué */
+  z-index: -1;
+	}
   
   .container {
 	max-width: 800px;
@@ -210,6 +225,13 @@ body{
   .mod-column {
 	width: 23%; /* Largeur de chaque colonne */
 	margin-bottom: 20px; /* Espacement entre les colonnes */
+  }
+
+  .don-column {
+	width: 33%; /* Largeur de chaque colonne */
+	margin-bottom: 20px; /* Espacement entre les colonnes */
+	justify-content: center;
+	align-items: center;
   }
   
   .mod-column h2 {
