@@ -86,6 +86,11 @@ body{
 	color: #fff;
   }
 
+  h3 {
+	font-size: 25px;
+	color: #fff;
+  }
+
   .ip {
 	font-size: 25px;
 	font-weight: bold;
@@ -227,17 +232,32 @@ body{
 	margin-bottom: 20px; /* Espacement entre les colonnes */
   }
 
-  .don-column {
-	width: 33%; /* Largeur de chaque colonne */
+  .prix {
+	width: 50%; /* Largeur de chaque colonne */
 	margin-bottom: 20px; /* Espacement entre les colonnes */
-	justify-content: center;
+	justify-content: space-evenly;
 	align-items: center;
+	margin: auto; /* Important */
+	text-align: center;
+  }
+
+  .rewards {
+	width: 50%; /* Largeur de chaque colonne */
+	margin-bottom: 20px; /* Espacement entre les colonnes */
+	justify-content: space-evenly;
+	align-items: center;
+	margin: auto; /* Important */
+    text-align: center;
   }
   
-  .mod-column h2 {
-	font-size: 30px; /* Taille du titre du mod */
-  }
-  
+	.mod-column h2 {
+		font-size: 30px; /* Taille du titre du mod */
+	}
+
+	.mod-column h3 {
+		font-size: 20px; /* Taille du titre du mod */
+	}
+
   .mod-column p {
 	font-size: 16px; /* Taille du texte de description du mod */
   }
