@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>BerryBlue RSS Feed</title>
+    <link>https://mc.berryblue.fr/</link>
+    <description>Feed d'actualités du server</description>
+    <language>fr-fr</language>
+    <lastBuildDate>Tue, 08 Oct 2024 12:00:00 GMT</lastBuildDate>
+
+    <item>
+      <title>Sorti du Launcheer !</title>
+      <link>https://mc.berryblue.fr/</link>
+      <description>test</description>
+      <content:encoded><![CDATA[
+        Nous sommes fiers de sortir la première version du launcher dédié à BerryBlue ! Toujours en phase de test, nous sommes impatients d'avoir vos retours et impressions !
+      ]]></content:encoded>
+      <pubDate>Tue, 08 Oct 2024 19:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
