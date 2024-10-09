@@ -1,0 +1,1580 @@
+{
+    "version": "1.0.0",
+    "rss": "<LINK TO RSS FEED>",
+    "discord": {
+      "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "servers": [
+      {
+        "id": "BerryBlue-1.20.1",
+        "name": "BerryBlue (Minecraft 1.20.1)",
+        "description": "BerryBlue Running Minecraft 1.20.1",
+        "icon": "https://mc.berryblue.fr/icon.png",
+        "version": "1.0.0",
+        "address": "localhost:25565",
+        "minecraftVersion": "1.20.1",
+        "discord": {
+          "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+          "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+          "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+        },
+        "mainServer": false,
+        "autoconnect": false,
+        "modules": [
+          {
+            "id": "AshiMons_ver1.3.zip",
+            "name": "AshiMons_ver1.3.zip",
+            "type": "File",
+            "artifact": {
+              "size": 267206,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/datapacks/AshiMons_ver1.3.zip",
+              "MD5": "db3453689a70847386d15d457c0e5544",
+              "path": "datapacks/AshiMons_ver1.3.zip"
+            }
+          },
+          {
+            "id": "CobbleTowns v1.0.2.zip",
+            "name": "CobbleTowns v1.0.2.zip",
+            "type": "File",
+            "artifact": {
+              "size": 630817,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/datapacks/CobbleTowns%20v1.0.2.zip",
+              "MD5": "73dc5f922676335ae5dc0f96bc35237d",
+              "path": "datapacks/CobbleTowns v1.0.2.zip"
+            }
+          },
+          {
+            "id": "cobble_cats.zip",
+            "name": "cobble_cats.zip",
+            "type": "File",
+            "artifact": {
+              "size": 262237,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/datapacks/cobble_cats.zip",
+              "MD5": "16a916770a67c0abba6098ccb0883297",
+              "path": "datapacks/cobble_cats.zip"
+            }
+          },
+          {
+            "id": "diance.zip",
+            "name": "diance.zip",
+            "type": "File",
+            "artifact": {
+              "size": 150991,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/datapacks/diance.zip",
+              "MD5": "3c7e272551034ec7f2c2d0bc60bbe403",
+              "path": "datapacks/diance.zip"
+            }
+          },
+          {
+            "id": "Fossil_Hybrids!BETA 1.01.zip",
+            "name": "Fossil_Hybrids!BETA 1.01.zip",
+            "type": "File",
+            "artifact": {
+              "size": 590173,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/datapacks/Fossil_Hybrids!BETA%201.01.zip",
+              "MD5": "45f1be0accc1415a83464810391a749a",
+              "path": "datapacks/Fossil_Hybrids!BETA 1.01.zip"
+            }
+          },
+          {
+            "id": "Genomons [1.5.1].zip",
+            "name": "Genomons [1.5.1].zip",
+            "type": "File",
+            "artifact": {
+              "size": 872185,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/datapacks/Genomons%20[1.5.1].zip",
+              "MD5": "87232a4c97cd2cebb5848841340dae6f",
+              "path": "datapacks/Genomons [1.5.1].zip"
+            }
+          },
+          {
+            "id": "HiddenMons [Cobblemon] v0.5.3.zip",
+            "name": "HiddenMons [Cobblemon] v0.5.3.zip",
+            "type": "File",
+            "artifact": {
+              "size": 400001,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/datapacks/HiddenMons%20[Cobblemon]%20v0.5.3.zip",
+              "MD5": "6afd28598031736a46a0268940ec6002",
+              "path": "datapacks/HiddenMons [Cobblemon] v0.5.3.zip"
+            }
+          },
+          {
+            "id": "Jacturne.zip",
+            "name": "Jacturne.zip",
+            "type": "File",
+            "artifact": {
+              "size": 238485,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/datapacks/Jacturne.zip",
+              "MD5": "10fca46fb800f710f4f970426e6264ef",
+              "path": "datapacks/Jacturne.zip"
+            }
+          },
+          {
+            "id": "Kale's Collection [v1.7].zip",
+            "name": "Kale's Collection [v1.7].zip",
+            "type": "File",
+            "artifact": {
+              "size": 925429,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/datapacks/Kale's%20Collection%20[v1.7].zip",
+              "MD5": "e9c98232102410c85d7aba879037063e",
+              "path": "datapacks/Kale's Collection [v1.7].zip"
+            }
+          },
+          {
+            "id": "Legendary Structures v1.1.1.zip",
+            "name": "Legendary Structures v1.1.1.zip",
+            "type": "File",
+            "artifact": {
+              "size": 91393,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/datapacks/Legendary%20Structures%20v1.1.1.zip",
+              "MD5": "dd05224f2cd111f66ca11edb67da9622",
+              "path": "datapacks/Legendary Structures v1.1.1.zip"
+            }
+          },
+          {
+            "id": "MissingMon_v3.0 [METALIC MADNESS].zip",
+            "name": "MissingMon_v3.0 [METALIC MADNESS].zip",
+            "type": "File",
+            "artifact": {
+              "size": 1126163,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/datapacks/MissingMon_v3.0%20[METALIC%20MADNESS].zip",
+              "MD5": "50ee5d54183d83e165e8fe3b3fad7530",
+              "path": "datapacks/MissingMon_v3.0 [METALIC MADNESS].zip"
+            }
+          },
+          {
+            "id": "MysticMons_v2.0.1.zip",
+            "name": "MysticMons_v2.0.1.zip",
+            "type": "File",
+            "artifact": {
+              "size": 921253,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/datapacks/MysticMons_v2.0.1.zip",
+              "MD5": "66a79cffbd3d26b72e47e26ac3f5440c",
+              "path": "datapacks/MysticMons_v2.0.1.zip"
+            }
+          },
+          {
+            "id": "PigeonPack.zip",
+            "name": "PigeonPack.zip",
+            "type": "File",
+            "artifact": {
+              "size": 322736,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/datapacks/PigeonPack.zip",
+              "MD5": "78439f9f81da3ab3a48517ed864600c3",
+              "path": "datapacks/PigeonPack.zip"
+            }
+          },
+          {
+            "id": "pokemans_v9.72.zip",
+            "name": "pokemans_v9.72.zip",
+            "type": "File",
+            "artifact": {
+              "size": 792936,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/datapacks/pokemans_v9.72.zip",
+              "MD5": "153a80ec017819c7b69dcddd44939e88",
+              "path": "datapacks/pokemans_v9.72.zip"
+            }
+          },
+          {
+            "id": "Pokémon Fishing v1.1.4 [1.20.1-v1.4+].zip",
+            "name": "Pokémon Fishing v1.1.4 [1.20.1-v1.4+].zip",
+            "type": "File",
+            "artifact": {
+              "size": 125935,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/datapacks/Pok%C3%A9mon%20Fishing%20v1.1.4%20[1.20.1-v1.4+].zip",
+              "MD5": "80797fbf300e5c716ad72c921ce52334",
+              "path": "datapacks/Pokémon Fishing v1.1.4 [1.20.1-v1.4+].zip"
+            }
+          },
+          {
+            "id": "SaltMons v2.0.zip",
+            "name": "SaltMons v2.0.zip",
+            "type": "File",
+            "artifact": {
+              "size": 339147,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/datapacks/SaltMons%20v2.0.zip",
+              "MD5": "10e24039efabed4e416567da01deb953",
+              "path": "datapacks/SaltMons v2.0.zip"
+            }
+          },
+          {
+            "id": "Wavimons1.1.zip",
+            "name": "Wavimons1.1.zip",
+            "type": "File",
+            "artifact": {
+              "size": 173020,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/datapacks/Wavimons1.1.zip",
+              "MD5": "913a2164398a8aa420ff60f3535b8726",
+              "path": "datapacks/Wavimons1.1.zip"
+            }
+          },
+          {
+            "id": "Ad-Astra-Giselle-Addon-forge-1.20.1-6.14.jar",
+            "name": "Ad-Astra-Giselle-Addon-forge-1.20.1-6.14.jar",
+            "type": "File",
+            "artifact": {
+              "size": 455343,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/Ad-Astra-Giselle-Addon-forge-1.20.1-6.14.jar",
+              "MD5": "b658c93d0aa0dce5511f4d738d4caac0",
+              "path": "mods/Ad-Astra-Giselle-Addon-forge-1.20.1-6.14.jar"
+            }
+          },
+          {
+            "id": "ad_astra-forge-1.20.1-1.15.18.jar",
+            "name": "ad_astra-forge-1.20.1-1.15.18.jar",
+            "type": "File",
+            "artifact": {
+              "size": 7461158,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/ad_astra-forge-1.20.1-1.15.18.jar",
+              "MD5": "00ee970a2bfaf1a71ab0328929cb09fa",
+              "path": "mods/ad_astra-forge-1.20.1-1.15.18.jar"
+            }
+          },
+          {
+            "id": "ae2wtlib-15.2.3-forge.jar",
+            "name": "ae2wtlib-15.2.3-forge.jar",
+            "type": "File",
+            "artifact": {
+              "size": 213482,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/ae2wtlib-15.2.3-forge.jar",
+              "MD5": "b564aeaa6cff74f6f6402481819c5717",
+              "path": "mods/ae2wtlib-15.2.3-forge.jar"
+            }
+          },
+          {
+            "id": "amendments-1.20-1.1.11.jar",
+            "name": "amendments-1.20-1.1.11.jar",
+            "type": "File",
+            "artifact": {
+              "size": 922614,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/amendments-1.20-1.1.11.jar",
+              "MD5": "54215b2ca7a756c882b9bbfb81c7d317",
+              "path": "mods/amendments-1.20-1.1.11.jar"
+            }
+          },
+          {
+            "id": "Applied-Mekanistics-1.4.2.jar",
+            "name": "Applied-Mekanistics-1.4.2.jar",
+            "type": "File",
+            "artifact": {
+              "size": 178447,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/Applied-Mekanistics-1.4.2.jar",
+              "MD5": "028247f964ad4a74f7851bd7ae8d6602",
+              "path": "mods/Applied-Mekanistics-1.4.2.jar"
+            }
+          },
+          {
+            "id": "appliedenergistics2-forge-15.2.4.jar",
+            "name": "appliedenergistics2-forge-15.2.4.jar",
+            "type": "File",
+            "artifact": {
+              "size": 9737144,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/appliedenergistics2-forge-15.2.4.jar",
+              "MD5": "de6c696567724f2c9186ae1104a37b04",
+              "path": "mods/appliedenergistics2-forge-15.2.4.jar"
+            }
+          },
+          {
+            "id": "architectury-9.2.14-forge.jar",
+            "name": "architectury-9.2.14-forge.jar",
+            "type": "File",
+            "artifact": {
+              "size": 580602,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/architectury-9.2.14-forge.jar",
+              "MD5": "76b40d407b6bf0257dd1dab6d3d395d5",
+              "path": "mods/architectury-9.2.14-forge.jar"
+            }
+          },
+          {
+            "id": "automobility-0.4.2+1.20.1-forge.jar",
+            "name": "automobility-0.4.2+1.20.1-forge.jar",
+            "type": "File",
+            "artifact": {
+              "size": 1054094,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/automobility-0.4.2+1.20.1-forge.jar",
+              "MD5": "fb16b053cc0eda55bb287c1aa926dcb5",
+              "path": "mods/automobility-0.4.2+1.20.1-forge.jar"
+            }
+          },
+          {
+            "id": "betterfoliage-5.0.2.jar",
+            "name": "betterfoliage-5.0.2.jar",
+            "type": "File",
+            "artifact": {
+              "size": 396130,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/betterfoliage-5.0.2.jar",
+              "MD5": "22f5753234b465c44688f9555acb4713",
+              "path": "mods/betterfoliage-5.0.2.jar"
+            }
+          },
+          {
+            "id": "botarium-forge-1.20.1-2.3.4.jar",
+            "name": "botarium-forge-1.20.1-2.3.4.jar",
+            "type": "File",
+            "artifact": {
+              "size": 157633,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/botarium-forge-1.20.1-2.3.4.jar",
+              "MD5": "c204f9d834da78a3972fc98da96730aa",
+              "path": "mods/botarium-forge-1.20.1-2.3.4.jar"
+            }
+          },
+          {
+            "id": "caelus-forge-3.2.0+1.20.1.jar",
+            "name": "caelus-forge-3.2.0+1.20.1.jar",
+            "type": "File",
+            "artifact": {
+              "size": 40125,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/caelus-forge-3.2.0+1.20.1.jar",
+              "MD5": "ac909c99a2a96ead2073f98bf0dd7b78",
+              "path": "mods/caelus-forge-3.2.0+1.20.1.jar"
+            }
+          },
+          {
+            "id": "cc-tweaked-1.20.1-forge-1.111.0.jar",
+            "name": "cc-tweaked-1.20.1-forge-1.111.0.jar",
+            "type": "File",
+            "artifact": {
+              "size": 3131451,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/cc-tweaked-1.20.1-forge-1.111.0.jar",
+              "MD5": "f0f6d9bb9b879d8ddbf2266024851d56",
+              "path": "mods/cc-tweaked-1.20.1-forge-1.111.0.jar"
+            }
+          },
+          {
+            "id": "cccbridge-mc1.20.1-forge-1.6.3.jar",
+            "name": "cccbridge-mc1.20.1-forge-1.6.3.jar",
+            "type": "File",
+            "artifact": {
+              "size": 289381,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/cccbridge-mc1.20.1-forge-1.6.3.jar",
+              "MD5": "8954495d581577028c662b6bcf4bb5e2",
+              "path": "mods/cccbridge-mc1.20.1-forge-1.6.3.jar"
+            }
+          },
+          {
+            "id": "cloth-config-11.1.118-forge.jar",
+            "name": "cloth-config-11.1.118-forge.jar",
+            "type": "File",
+            "artifact": {
+              "size": 1168391,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/cloth-config-11.1.118-forge.jar",
+              "MD5": "728bdaa093e07f3567640d36c55656ae",
+              "path": "mods/cloth-config-11.1.118-forge.jar"
+            }
+          },
+          {
+            "id": "cluttered-2.1-1.20.1.jar",
+            "name": "cluttered-2.1-1.20.1.jar",
+            "type": "File",
+            "artifact": {
+              "size": 6002846,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/cluttered-2.1-1.20.1.jar",
+              "MD5": "359422bfdb492eada7067f41db746cff",
+              "path": "mods/cluttered-2.1-1.20.1.jar"
+            }
+          },
+          {
+            "id": "Cobblemon-forge-1.5.2+1.20.1.jar",
+            "name": "Cobblemon-forge-1.5.2+1.20.1.jar",
+            "type": "File",
+            "artifact": {
+              "size": 104105045,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/Cobblemon-forge-1.5.2+1.20.1.jar",
+              "MD5": "89e9852463f198a88c7fb509a0eb5dd1",
+              "path": "mods/Cobblemon-forge-1.5.2+1.20.1.jar"
+            }
+          },
+          {
+            "id": "Cobbreeding-forge-1.7.2.jar",
+            "name": "Cobbreeding-forge-1.7.2.jar",
+            "type": "File",
+            "artifact": {
+              "size": 85064,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/Cobbreeding-forge-1.7.2.jar",
+              "MD5": "a9d6590cdd8c17cd4ade4626363c6ad7",
+              "path": "mods/Cobbreeding-forge-1.7.2.jar"
+            }
+          },
+          {
+            "id": "collective-1.20.1-7.62.jar",
+            "name": "collective-1.20.1-7.62.jar",
+            "type": "File",
+            "artifact": {
+              "size": 608955,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/collective-1.20.1-7.62.jar",
+              "MD5": "dfeaf0236947c741723488a2655090de",
+              "path": "mods/collective-1.20.1-7.62.jar"
+            }
+          },
+          {
+            "id": "constructionwand-1.20.1-2.11.jar",
+            "name": "constructionwand-1.20.1-2.11.jar",
+            "type": "File",
+            "artifact": {
+              "size": 210312,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/constructionwand-1.20.1-2.11.jar",
+              "MD5": "e17b0f6b4fa378d6750a9030a5aca9e0",
+              "path": "mods/constructionwand-1.20.1-2.11.jar"
+            }
+          },
+          {
+            "id": "cosmeticarmorreworked-1.20.1-v1a.jar",
+            "name": "cosmeticarmorreworked-1.20.1-v1a.jar",
+            "type": "File",
+            "artifact": {
+              "size": 88752,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/cosmeticarmorreworked-1.20.1-v1a.jar",
+              "MD5": "2454075e9a25cbadc0fce66502e3261d",
+              "path": "mods/cosmeticarmorreworked-1.20.1-v1a.jar"
+            }
+          },
+          {
+            "id": "create-1.20.1-0.5.1.h.jar",
+            "name": "create-1.20.1-0.5.1.h.jar",
+            "type": "File",
+            "artifact": {
+              "size": 15577849,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/create-1.20.1-0.5.1.h.jar",
+              "MD5": "edd670404374248e3529f4765d1f2dcb",
+              "path": "mods/create-1.20.1-0.5.1.h.jar"
+            }
+          },
+          {
+            "id": "Create-Cobblemon-Forge-v0.3.jar",
+            "name": "Create-Cobblemon-Forge-v0.3.jar",
+            "type": "File",
+            "artifact": {
+              "size": 413543,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/Create-Cobblemon-Forge-v0.3.jar",
+              "MD5": "96d74a76f4fca820ea496502eb71bd3e",
+              "path": "mods/Create-Cobblemon-Forge-v0.3.jar"
+            }
+          },
+          {
+            "id": "create-confectionery1.20.1_v1.1.0.jar",
+            "name": "create-confectionery1.20.1_v1.1.0.jar",
+            "type": "File",
+            "artifact": {
+              "size": 2123089,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/create-confectionery1.20.1_v1.1.0.jar",
+              "MD5": "12760e582e8e0bd77e1b3a9421bb7e01",
+              "path": "mods/create-confectionery1.20.1_v1.1.0.jar"
+            }
+          },
+          {
+            "id": "createaddition-1.20.1-1.2.3.jar",
+            "name": "createaddition-1.20.1-1.2.3.jar",
+            "type": "File",
+            "artifact": {
+              "size": 1511325,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/createaddition-1.20.1-1.2.3.jar",
+              "MD5": "c8ac20b05f2db8576e4114eddb92e32b",
+              "path": "mods/createaddition-1.20.1-1.2.3.jar"
+            }
+          },
+          {
+            "id": "createliquidfuel-2.1.1-1.20.1.jar",
+            "name": "createliquidfuel-2.1.1-1.20.1.jar",
+            "type": "File",
+            "artifact": {
+              "size": 20245,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/createliquidfuel-2.1.1-1.20.1.jar",
+              "MD5": "41d2472841c5dc5d43adc52b27b3123b",
+              "path": "mods/createliquidfuel-2.1.1-1.20.1.jar"
+            }
+          },
+          {
+            "id": "CreateNumismatics-1.0.6+forge-mc1.20.1.jar",
+            "name": "CreateNumismatics-1.0.6+forge-mc1.20.1.jar",
+            "type": "File",
+            "artifact": {
+              "size": 884314,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/CreateNumismatics-1.0.6+forge-mc1.20.1.jar",
+              "MD5": "0d8c3c8e5cdf8a6a65009d592d31d7c3",
+              "path": "mods/CreateNumismatics-1.0.6+forge-mc1.20.1.jar"
+            }
+          },
+          {
+            "id": "createrailwaysnavigator-0.5.3-beta-1.20.1-forge.jar",
+            "name": "createrailwaysnavigator-0.5.3-beta-1.20.1-forge.jar",
+            "type": "File",
+            "artifact": {
+              "size": 2631662,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/createrailwaysnavigator-0.5.3-beta-1.20.1-forge.jar",
+              "MD5": "60bb92b9f7f46be1c4a2d87387503aa6",
+              "path": "mods/createrailwaysnavigator-0.5.3-beta-1.20.1-forge.jar"
+            }
+          },
+          {
+            "id": "create_ad_astra_compat-forge-1.20.1-1.0.0.jar",
+            "name": "create_ad_astra_compat-forge-1.20.1-1.0.0.jar",
+            "type": "File",
+            "artifact": {
+              "size": 23401,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/create_ad_astra_compat-forge-1.20.1-1.0.0.jar",
+              "MD5": "83d645cb570590eddea5589c2e7d75ac",
+              "path": "mods/create_ad_astra_compat-forge-1.20.1-1.0.0.jar"
+            }
+          },
+          {
+            "id": "create_central_kitchen-1.20.1-for-create-0.5.1.f-1.3.12.jar",
+            "name": "create_central_kitchen-1.20.1-for-create-0.5.1.f-1.3.12.jar",
+            "type": "File",
+            "artifact": {
+              "size": 881845,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/create_central_kitchen-1.20.1-for-create-0.5.1.f-1.3.12.jar",
+              "MD5": "2020d58dceabd76a39d2fe483b4806b6",
+              "path": "mods/create_central_kitchen-1.20.1-for-create-0.5.1.f-1.3.12.jar"
+            }
+          },
+          {
+            "id": "create_connected-0.8.2-mc1.20.1-all.jar",
+            "name": "create_connected-0.8.2-mc1.20.1-all.jar",
+            "type": "File",
+            "artifact": {
+              "size": 6145362,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/create_connected-0.8.2-mc1.20.1-all.jar",
+              "MD5": "5cd8b79086ed93d62cb43f75b38d36d7",
+              "path": "mods/create_connected-0.8.2-mc1.20.1-all.jar"
+            }
+          },
+          {
+            "id": "create_copper_and_zinc-1.4.0-forge-1.20.1.jar",
+            "name": "create_copper_and_zinc-1.4.0-forge-1.20.1.jar",
+            "type": "File",
+            "artifact": {
+              "size": 151732,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/create_copper_and_zinc-1.4.0-forge-1.20.1.jar",
+              "MD5": "f1db4a9238946984d7812e25134809c0",
+              "path": "mods/create_copper_and_zinc-1.4.0-forge-1.20.1.jar"
+            }
+          },
+          {
+            "id": "create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.9.d.jar",
+            "name": "create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.9.d.jar",
+            "type": "File",
+            "artifact": {
+              "size": 495595,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.9.d.jar",
+              "MD5": "fb224ab499d287b842b12b69fcb04fa9",
+              "path": "mods/create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.9.d.jar"
+            }
+          },
+          {
+            "id": "create_jetpack-forge-4.3.2.jar",
+            "name": "create_jetpack-forge-4.3.2.jar",
+            "type": "File",
+            "artifact": {
+              "size": 224988,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/create_jetpack-forge-4.3.2.jar",
+              "MD5": "c1b5d98f152a942d1a5ee52b63c97b0c",
+              "path": "mods/create_jetpack-forge-4.3.2.jar"
+            }
+          },
+          {
+            "id": "create_mechanical_spawner-1.20.1-0.0.14.e-22.jar",
+            "name": "create_mechanical_spawner-1.20.1-0.0.14.e-22.jar",
+            "type": "File",
+            "artifact": {
+              "size": 406243,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/create_mechanical_spawner-1.20.1-0.0.14.e-22.jar",
+              "MD5": "280a16a6c4fa8db76d658f9489a05902",
+              "path": "mods/create_mechanical_spawner-1.20.1-0.0.14.e-22.jar"
+            }
+          },
+          {
+            "id": "create_misc_and_things_ 1.20.1_4.0A.jar",
+            "name": "create_misc_and_things_ 1.20.1_4.0A.jar",
+            "type": "File",
+            "artifact": {
+              "size": 1014347,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/create_misc_and_things_%201.20.1_4.0A.jar",
+              "MD5": "fc477f3364e0e6096f8619f610c94e17",
+              "path": "mods/create_misc_and_things_ 1.20.1_4.0A.jar"
+            }
+          },
+          {
+            "id": "create_tweaked_controllers-1.20.1-1.2.4.jar",
+            "name": "create_tweaked_controllers-1.20.1-1.2.4.jar",
+            "type": "File",
+            "artifact": {
+              "size": 298383,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/create_tweaked_controllers-1.20.1-1.2.4.jar",
+              "MD5": "3aaa6862478984552420f19e1d75b28b",
+              "path": "mods/create_tweaked_controllers-1.20.1-1.2.4.jar"
+            }
+          },
+          {
+            "id": "cupboard-1.20.1-2.6.jar",
+            "name": "cupboard-1.20.1-2.6.jar",
+            "type": "File",
+            "artifact": {
+              "size": 24736,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/cupboard-1.20.1-2.6.jar",
+              "MD5": "29fa1151f99dff55b0581e67eba5079e",
+              "path": "mods/cupboard-1.20.1-2.6.jar"
+            }
+          },
+          {
+            "id": "curios-forge-5.9.1+1.20.1.jar",
+            "name": "curios-forge-5.9.1+1.20.1.jar",
+            "type": "File",
+            "artifact": {
+              "size": 382970,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/curios-forge-5.9.1+1.20.1.jar",
+              "MD5": "c4bef497fe84a0140652e43b267bd6ee",
+              "path": "mods/curios-forge-5.9.1+1.20.1.jar"
+            }
+          },
+          {
+            "id": "design_decor-0.4-1.20.1.jar",
+            "name": "design_decor-0.4-1.20.1.jar",
+            "type": "File",
+            "artifact": {
+              "size": 2439639,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/design_decor-0.4-1.20.1.jar",
+              "MD5": "e6f430903fa55c5d55f2015fef43dc92",
+              "path": "mods/design_decor-0.4-1.20.1.jar"
+            }
+          },
+          {
+            "id": "easy_npc_1.20.1-4.5.1.jar",
+            "name": "easy_npc_1.20.1-4.5.1.jar",
+            "type": "File",
+            "artifact": {
+              "size": 1337385,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/easy_npc_1.20.1-4.5.1.jar",
+              "MD5": "90d843d4d883cbf770fe4e665f3cbc01",
+              "path": "mods/easy_npc_1.20.1-4.5.1.jar"
+            }
+          },
+          {
+            "id": "elytraslot-forge-6.4.0+1.20.1.jar",
+            "name": "elytraslot-forge-6.4.0+1.20.1.jar",
+            "type": "File",
+            "artifact": {
+              "size": 92592,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/elytraslot-forge-6.4.0+1.20.1.jar",
+              "MD5": "5288537ee6030597b46eddaf89f05f9c",
+              "path": "mods/elytraslot-forge-6.4.0+1.20.1.jar"
+            }
+          },
+          {
+            "id": "embeddium-0.3.31+mc1.20.1.jar",
+            "name": "embeddium-0.3.31+mc1.20.1.jar",
+            "type": "File",
+            "artifact": {
+              "size": 1320675,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/embeddium-0.3.31+mc1.20.1.jar",
+              "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7",
+              "path": "mods/embeddium-0.3.31+mc1.20.1.jar"
+            }
+          },
+          {
+            "id": "entityculling-forge-1.6.6-mc1.20.1.jar",
+            "name": "entityculling-forge-1.6.6-mc1.20.1.jar",
+            "type": "File",
+            "artifact": {
+              "size": 71139,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/entityculling-forge-1.6.6-mc1.20.1.jar",
+              "MD5": "e633559944ee1cecf7511e9ba38dfeb6",
+              "path": "mods/entityculling-forge-1.6.6-mc1.20.1.jar"
+            }
+          },
+          {
+            "id": "FarmersDelight-1.20.1-1.2.4.jar",
+            "name": "FarmersDelight-1.20.1-1.2.4.jar",
+            "type": "File",
+            "artifact": {
+              "size": 2915349,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/FarmersDelight-1.20.1-1.2.4.jar",
+              "MD5": "5b6bee961b278a3edd6e3935b061fbaa",
+              "path": "mods/FarmersDelight-1.20.1-1.2.4.jar"
+            }
+          },
+          {
+            "id": "fastasyncworldsave-1.20.1-2.0.jar",
+            "name": "fastasyncworldsave-1.20.1-2.0.jar",
+            "type": "File",
+            "artifact": {
+              "size": 10992,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/fastasyncworldsave-1.20.1-2.0.jar",
+              "MD5": "3e8e2e04378e86a8b59cb3efcf43c4ae",
+              "path": "mods/fastasyncworldsave-1.20.1-2.0.jar"
+            }
+          },
+          {
+            "id": "ferritecore-6.0.1-forge.jar",
+            "name": "ferritecore-6.0.1-forge.jar",
+            "type": "File",
+            "artifact": {
+              "size": 123034,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/ferritecore-6.0.1-forge.jar",
+              "MD5": "f52f538207a4829d7060550092ce2383",
+              "path": "mods/ferritecore-6.0.1-forge.jar"
+            }
+          },
+          {
+            "id": "FluxNetworks-1.20.1-7.2.1.15.jar",
+            "name": "FluxNetworks-1.20.1-7.2.1.15.jar",
+            "type": "File",
+            "artifact": {
+              "size": 515573,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/FluxNetworks-1.20.1-7.2.1.15.jar",
+              "MD5": "d5584d49027026283310ba3742424128",
+              "path": "mods/FluxNetworks-1.20.1-7.2.1.15.jar"
+            }
+          },
+          {
+            "id": "ForgeClientResetPacket-0.3.1.jar",
+            "name": "ForgeClientResetPacket-0.3.1.jar",
+            "type": "File",
+            "artifact": {
+              "size": 12869,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/ForgeClientResetPacket-0.3.1.jar",
+              "MD5": "a5957f3448beeae5a07a4924f7f30e95",
+              "path": "mods/ForgeClientResetPacket-0.3.1.jar"
+            }
+          },
+          {
+            "id": "Forgematica-0.1.3-mc1.20.1.jar",
+            "name": "Forgematica-0.1.3-mc1.20.1.jar",
+            "type": "File",
+            "artifact": {
+              "size": 957243,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/Forgematica-0.1.3-mc1.20.1.jar",
+              "MD5": "c3209dd06c1bb899ab0b1a6bbb852186",
+              "path": "mods/Forgematica-0.1.3-mc1.20.1.jar"
+            }
+          },
+          {
+            "id": "ftb-chunks-forge-2001.3.1.jar",
+            "name": "ftb-chunks-forge-2001.3.1.jar",
+            "type": "File",
+            "artifact": {
+              "size": 886468,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/ftb-chunks-forge-2001.3.1.jar",
+              "MD5": "42489b6e3db048ad8f21e19ecac89e24",
+              "path": "mods/ftb-chunks-forge-2001.3.1.jar"
+            }
+          },
+          {
+            "id": "ftb-essentials-forge-2001.2.2.jar",
+            "name": "ftb-essentials-forge-2001.2.2.jar",
+            "type": "File",
+            "artifact": {
+              "size": 155952,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/ftb-essentials-forge-2001.2.2.jar",
+              "MD5": "af57dc19d6a359ba3eb59494026bca8d",
+              "path": "mods/ftb-essentials-forge-2001.2.2.jar"
+            }
+          },
+          {
+            "id": "ftb-library-forge-2001.2.2.jar",
+            "name": "ftb-library-forge-2001.2.2.jar",
+            "type": "File",
+            "artifact": {
+              "size": 786402,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/ftb-library-forge-2001.2.2.jar",
+              "MD5": "95b3dcf3cd88a8f037a86cb917819367",
+              "path": "mods/ftb-library-forge-2001.2.2.jar"
+            }
+          },
+          {
+            "id": "ftb-quests-forge-2001.4.8.jar",
+            "name": "ftb-quests-forge-2001.4.8.jar",
+            "type": "File",
+            "artifact": {
+              "size": 1181709,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/ftb-quests-forge-2001.4.8.jar",
+              "MD5": "74c500cb0ac713642b0dbc8602f858aa",
+              "path": "mods/ftb-quests-forge-2001.4.8.jar"
+            }
+          },
+          {
+            "id": "ftb-ranks-forge-2001.1.3.jar",
+            "name": "ftb-ranks-forge-2001.1.3.jar",
+            "type": "File",
+            "artifact": {
+              "size": 85218,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/ftb-ranks-forge-2001.1.3.jar",
+              "MD5": "3a2157d8b065b9c94229589e11632ebb",
+              "path": "mods/ftb-ranks-forge-2001.1.3.jar"
+            }
+          },
+          {
+            "id": "ftb-teams-forge-2001.3.0.jar",
+            "name": "ftb-teams-forge-2001.3.0.jar",
+            "type": "File",
+            "artifact": {
+              "size": 247666,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/ftb-teams-forge-2001.3.0.jar",
+              "MD5": "31acf433df9d13282fa12bd6974c44f9",
+              "path": "mods/ftb-teams-forge-2001.3.0.jar"
+            }
+          },
+          {
+            "id": "ftb-xmod-compat-forge-2.1.1.jar",
+            "name": "ftb-xmod-compat-forge-2.1.1.jar",
+            "type": "File",
+            "artifact": {
+              "size": 129541,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/ftb-xmod-compat-forge-2.1.1.jar",
+              "MD5": "f506cff280b8cb09b4aeb39359f7b1aa",
+              "path": "mods/ftb-xmod-compat-forge-2.1.1.jar"
+            }
+          },
+          {
+            "id": "ftbbackups2-forge-1.20-1.0.23.jar",
+            "name": "ftbbackups2-forge-1.20-1.0.23.jar",
+            "type": "File",
+            "artifact": {
+              "size": 1954591,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/ftbbackups2-forge-1.20-1.0.23.jar",
+              "MD5": "d03cc8191ad47156c977d53468421559",
+              "path": "mods/ftbbackups2-forge-1.20-1.0.23.jar"
+            }
+          },
+          {
+            "id": "fullbrightnesstoggle-1.20.1-4.0.jar",
+            "name": "fullbrightnesstoggle-1.20.1-4.0.jar",
+            "type": "File",
+            "artifact": {
+              "size": 30053,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/fullbrightnesstoggle-1.20.1-4.0.jar",
+              "MD5": "65f060963c7b546fb3404aaf77caff24",
+              "path": "mods/fullbrightnesstoggle-1.20.1-4.0.jar"
+            }
+          },
+          {
+            "id": "immersive_melodies-0.2.0+1.20.1-forge.jar",
+            "name": "immersive_melodies-0.2.0+1.20.1-forge.jar",
+            "type": "File",
+            "artifact": {
+              "size": 2556261,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/immersive_melodies-0.2.0+1.20.1-forge.jar",
+              "MD5": "41c343157f281e5cb5894d8afa14f191",
+              "path": "mods/immersive_melodies-0.2.0+1.20.1-forge.jar"
+            }
+          },
+          {
+            "id": "industrial-foregoing-1.20.1-3.5.17.jar",
+            "name": "industrial-foregoing-1.20.1-3.5.17.jar",
+            "type": "File",
+            "artifact": {
+              "size": 4512775,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/industrial-foregoing-1.20.1-3.5.17.jar",
+              "MD5": "1b29c7d1efa8288e0a7afdcfc06eaba7",
+              "path": "mods/industrial-foregoing-1.20.1-3.5.17.jar"
+            }
+          },
+          {
+            "id": "interiors-0.5.6+forge-mc1.20.1-build.104.jar",
+            "name": "interiors-0.5.6+forge-mc1.20.1-build.104.jar",
+            "type": "File",
+            "artifact": {
+              "size": 591437,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/interiors-0.5.6+forge-mc1.20.1-build.104.jar",
+              "MD5": "d28b0a0904a20919f0ab0fdf867718f1",
+              "path": "mods/interiors-0.5.6+forge-mc1.20.1-build.104.jar"
+            }
+          },
+          {
+            "id": "ironchests-5.0.2-forge.jar",
+            "name": "ironchests-5.0.2-forge.jar",
+            "type": "File",
+            "artifact": {
+              "size": 492203,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/ironchests-5.0.2-forge.jar",
+              "MD5": "b8c2836e89d7754987aba3f452502575",
+              "path": "mods/ironchests-5.0.2-forge.jar"
+            }
+          },
+          {
+            "id": "jei-1.20.1-forge-15.3.0.8.jar",
+            "name": "jei-1.20.1-forge-15.3.0.8.jar",
+            "type": "File",
+            "artifact": {
+              "size": 1128338,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/jei-1.20.1-forge-15.3.0.8.jar",
+              "MD5": "389dc0a66f837ff16aba840200dcb09f",
+              "path": "mods/jei-1.20.1-forge-15.3.0.8.jar"
+            }
+          },
+          {
+            "id": "JustOutdoorStuffs-1.20.1-forge-v1.0.2.jar",
+            "name": "JustOutdoorStuffs-1.20.1-forge-v1.0.2.jar",
+            "type": "File",
+            "artifact": {
+              "size": 507436,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/JustOutdoorStuffs-1.20.1-forge-v1.0.2.jar",
+              "MD5": "94d8b39251b3695cc9bb757ea259cf13",
+              "path": "mods/JustOutdoorStuffs-1.20.1-forge-v1.0.2.jar"
+            }
+          },
+          {
+            "id": "kotlinforforge-4.11.0-all.jar",
+            "name": "kotlinforforge-4.11.0-all.jar",
+            "type": "File",
+            "artifact": {
+              "size": 7193768,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/kotlinforforge-4.11.0-all.jar",
+              "MD5": "417caa90d17dc86cf7d24b802c2a5c56",
+              "path": "mods/kotlinforforge-4.11.0-all.jar"
+            }
+          },
+          {
+            "id": "kubejs-create-forge-2001.2.5-build.2.jar",
+            "name": "kubejs-create-forge-2001.2.5-build.2.jar",
+            "type": "File",
+            "artifact": {
+              "size": 31216,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/kubejs-create-forge-2001.2.5-build.2.jar",
+              "MD5": "97abfa31b03b53dfb6c15efd134874e8",
+              "path": "mods/kubejs-create-forge-2001.2.5-build.2.jar"
+            }
+          },
+          {
+            "id": "kubejs-forge-2001.6.5-build.14.jar",
+            "name": "kubejs-forge-2001.6.5-build.14.jar",
+            "type": "File",
+            "artifact": {
+              "size": 1654724,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/kubejs-forge-2001.6.5-build.14.jar",
+              "MD5": "b23faa10b06f01809ad4e5bf28da453c",
+              "path": "mods/kubejs-forge-2001.6.5-build.14.jar"
+            }
+          },
+          {
+            "id": "kubejs-mekanism-forge-2001.1.5.1-build.2.jar",
+            "name": "kubejs-mekanism-forge-2001.1.5.1-build.2.jar",
+            "type": "File",
+            "artifact": {
+              "size": 72456,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/kubejs-mekanism-forge-2001.1.5.1-build.2.jar",
+              "MD5": "b81dfaf433fddd82ef41a3984be80934",
+              "path": "mods/kubejs-mekanism-forge-2001.1.5.1-build.2.jar"
+            }
+          },
+          {
+            "id": "light-overlay-8.0.0-forge.jar",
+            "name": "light-overlay-8.0.0-forge.jar",
+            "type": "File",
+            "artifact": {
+              "size": 65273,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/light-overlay-8.0.0-forge.jar",
+              "MD5": "081458d10736be6fef3da2a31bcdc8f5",
+              "path": "mods/light-overlay-8.0.0-forge.jar"
+            }
+          },
+          {
+            "id": "lootjs-forge-1.20.1-2.12.0.jar",
+            "name": "lootjs-forge-1.20.1-2.12.0.jar",
+            "type": "File",
+            "artifact": {
+              "size": 241907,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/lootjs-forge-1.20.1-2.12.0.jar",
+              "MD5": "6f74c321a57853a86e674bae5d019c3b",
+              "path": "mods/lootjs-forge-1.20.1-2.12.0.jar"
+            }
+          },
+          {
+            "id": "MaFgLib-0.1.8-mc1.20.1.jar",
+            "name": "MaFgLib-0.1.8-mc1.20.1.jar",
+            "type": "File",
+            "artifact": {
+              "size": 607882,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/MaFgLib-0.1.8-mc1.20.1.jar",
+              "MD5": "916f3b1330d08b406130ca00b9476995",
+              "path": "mods/MaFgLib-0.1.8-mc1.20.1.jar"
+            }
+          },
+          {
+            "id": "MagnumTorch-v8.0.2-1.20.1-Forge.jar",
+            "name": "MagnumTorch-v8.0.2-1.20.1-Forge.jar",
+            "type": "File",
+            "artifact": {
+              "size": 90965,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/MagnumTorch-v8.0.2-1.20.1-Forge.jar",
+              "MD5": "77290be343a87db8b81b16ea95eb8e05",
+              "path": "mods/MagnumTorch-v8.0.2-1.20.1-Forge.jar"
+            }
+          },
+          {
+            "id": "mangomultiblock-1.20.1-1.3.0.jar",
+            "name": "mangomultiblock-1.20.1-1.3.0.jar",
+            "type": "File",
+            "artifact": {
+              "size": 43219,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/mangomultiblock-1.20.1-1.3.0.jar",
+              "MD5": "3a1276c324c5e31645f4fe84079045b2",
+              "path": "mods/mangomultiblock-1.20.1-1.3.0.jar"
+            }
+          },
+          {
+            "id": "mcjtylib-1.20-8.0.6.jar",
+            "name": "mcjtylib-1.20-8.0.6.jar",
+            "type": "File",
+            "artifact": {
+              "size": 675157,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/mcjtylib-1.20-8.0.6.jar",
+              "MD5": "318269b38df6cca8bfe7fec0a16cc644",
+              "path": "mods/mcjtylib-1.20-8.0.6.jar"
+            }
+          },
+          {
+            "id": "MegamonsForge-1.2.1.jar",
+            "name": "MegamonsForge-1.2.1.jar",
+            "type": "File",
+            "artifact": {
+              "size": 2720339,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/MegamonsForge-1.2.1.jar",
+              "MD5": "7cbbfbb16517941947aa750b9469db99",
+              "path": "mods/MegamonsForge-1.2.1.jar"
+            }
+          },
+          {
+            "id": "Mekanism-1.20.1-10.4.8.43.jar",
+            "name": "Mekanism-1.20.1-10.4.8.43.jar",
+            "type": "File",
+            "artifact": {
+              "size": 12553103,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/Mekanism-1.20.1-10.4.8.43.jar",
+              "MD5": "8adf090fff870169a6809cf571babe08",
+              "path": "mods/Mekanism-1.20.1-10.4.8.43.jar"
+            }
+          },
+          {
+            "id": "mekanism-ad-astra-ores-1.0.0.jar",
+            "name": "mekanism-ad-astra-ores-1.0.0.jar",
+            "type": "File",
+            "artifact": {
+              "size": 136891,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/mekanism-ad-astra-ores-1.0.0.jar",
+              "MD5": "ce2f4ea37ea2092ea58360a0d23046a9",
+              "path": "mods/mekanism-ad-astra-ores-1.0.0.jar"
+            }
+          },
+          {
+            "id": "MekanismGenerators-1.20.1-10.4.8.43.jar",
+            "name": "MekanismGenerators-1.20.1-10.4.8.43.jar",
+            "type": "File",
+            "artifact": {
+              "size": 1054587,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/MekanismGenerators-1.20.1-10.4.8.43.jar",
+              "MD5": "9536e0fc7fb8c05745ee4b1cdaab77e8",
+              "path": "mods/MekanismGenerators-1.20.1-10.4.8.43.jar"
+            }
+          },
+          {
+            "id": "mifa-forge-1.20.x-1.0.0.jar",
+            "name": "mifa-forge-1.20.x-1.0.0.jar",
+            "type": "File",
+            "artifact": {
+              "size": 75639,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/mifa-forge-1.20.x-1.0.0.jar",
+              "MD5": "ff724e479cdec63562d14efd9dd95644",
+              "path": "mods/mifa-forge-1.20.x-1.0.0.jar"
+            }
+          },
+          {
+            "id": "MOAdecor ART 1.20.1.jar",
+            "name": "MOAdecor ART 1.20.1.jar",
+            "type": "File",
+            "artifact": {
+              "size": 1067543,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/MOAdecor%20ART%201.20.1.jar",
+              "MD5": "0d5ee502c177ed59811d0f1fa3c4fe91",
+              "path": "mods/MOAdecor ART 1.20.1.jar"
+            }
+          },
+          {
+            "id": "modernfix-forge-5.18.1+mc1.20.1.jar",
+            "name": "modernfix-forge-5.18.1+mc1.20.1.jar",
+            "type": "File",
+            "artifact": {
+              "size": 771936,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/modernfix-forge-5.18.1+mc1.20.1.jar",
+              "MD5": "5801ab7c4f85be96f72841743c43e295",
+              "path": "mods/modernfix-forge-5.18.1+mc1.20.1.jar"
+            }
+          },
+          {
+            "id": "moonlight-1.20-2.11.10-forge.jar",
+            "name": "moonlight-1.20-2.11.10-forge.jar",
+            "type": "File",
+            "artifact": {
+              "size": 1161933,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/moonlight-1.20-2.11.10-forge.jar",
+              "MD5": "64fc78b00612e458407d3469b92ac63b",
+              "path": "mods/moonlight-1.20-2.11.10-forge.jar"
+            }
+          },
+          {
+            "id": "nocube's_create_compact_exp_1.0.3_forge_1.20.1.jar",
+            "name": "nocube's_create_compact_exp_1.0.3_forge_1.20.1.jar",
+            "type": "File",
+            "artifact": {
+              "size": 16029,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/nocube's_create_compact_exp_1.0.3_forge_1.20.1.jar",
+              "MD5": "3b469792e03145277e299bfa249e1fb6",
+              "path": "mods/nocube's_create_compact_exp_1.0.3_forge_1.20.1.jar"
+            }
+          },
+          {
+            "id": "oculus-mc1.20.1-1.7.0.jar",
+            "name": "oculus-mc1.20.1-1.7.0.jar",
+            "type": "File",
+            "artifact": {
+              "size": 2831148,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/oculus-mc1.20.1-1.7.0.jar",
+              "MD5": "45b96133bb46cc61dd9778bd4fca741d",
+              "path": "mods/oculus-mc1.20.1-1.7.0.jar"
+            }
+          },
+          {
+            "id": "Patchouli-1.20.1-84-FORGE.jar",
+            "name": "Patchouli-1.20.1-84-FORGE.jar",
+            "type": "File",
+            "artifact": {
+              "size": 642506,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/Patchouli-1.20.1-84-FORGE.jar",
+              "MD5": "64452a4404a2c47a782ba99cb90c3ca0",
+              "path": "mods/Patchouli-1.20.1-84-FORGE.jar"
+            }
+          },
+          {
+            "id": "Placebo-1.20.1-8.6.2.jar",
+            "name": "Placebo-1.20.1-8.6.2.jar",
+            "type": "File",
+            "artifact": {
+              "size": 285351,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/Placebo-1.20.1-8.6.2.jar",
+              "MD5": "0b7358e758257452184a3a8f82f60abe",
+              "path": "mods/Placebo-1.20.1-8.6.2.jar"
+            }
+          },
+          {
+            "id": "polylib-forge-2000.0.3-build.143.jar",
+            "name": "polylib-forge-2000.0.3-build.143.jar",
+            "type": "File",
+            "artifact": {
+              "size": 1343694,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/polylib-forge-2000.0.3-build.143.jar",
+              "MD5": "ffb6c10b010e7e4fd5eba9f864182593",
+              "path": "mods/polylib-forge-2000.0.3-build.143.jar"
+            }
+          },
+          {
+            "id": "ponderjs-1.20.1-1.4.0.jar",
+            "name": "ponderjs-1.20.1-1.4.0.jar",
+            "type": "File",
+            "artifact": {
+              "size": 80708,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/ponderjs-1.20.1-1.4.0.jar",
+              "MD5": "b8be29c164dcb31f6fe78eaeba1012eb",
+              "path": "mods/ponderjs-1.20.1-1.4.0.jar"
+            }
+          },
+          {
+            "id": "probejs-7.0.1-forge.jar",
+            "name": "probejs-7.0.1-forge.jar",
+            "type": "File",
+            "artifact": {
+              "size": 4342235,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/probejs-7.0.1-forge.jar",
+              "MD5": "6cc33a3486b4a374a6477fb0f9e4fe6c",
+              "path": "mods/probejs-7.0.1-forge.jar"
+            }
+          },
+          {
+            "id": "PuzzlesLib-v8.1.20-1.20.1-Forge.jar",
+            "name": "PuzzlesLib-v8.1.20-1.20.1-Forge.jar",
+            "type": "File",
+            "artifact": {
+              "size": 1001058,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/PuzzlesLib-v8.1.20-1.20.1-Forge.jar",
+              "MD5": "e171c03e6665e0f04588a96f87753e9b",
+              "path": "mods/PuzzlesLib-v8.1.20-1.20.1-Forge.jar"
+            }
+          },
+          {
+            "id": "redeco-1.10.0-1.20.jar",
+            "name": "redeco-1.10.0-1.20.jar",
+            "type": "File",
+            "artifact": {
+              "size": 2824804,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/redeco-1.10.0-1.20.jar",
+              "MD5": "b463dec5e0b2f436efc01147a42ebceb",
+              "path": "mods/redeco-1.10.0-1.20.jar"
+            }
+          },
+          {
+            "id": "resourcefulconfig-forge-1.20.1-2.1.2.jar",
+            "name": "resourcefulconfig-forge-1.20.1-2.1.2.jar",
+            "type": "File",
+            "artifact": {
+              "size": 136630,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/resourcefulconfig-forge-1.20.1-2.1.2.jar",
+              "MD5": "84ec6d833405f9eb37b1275e8d828a74",
+              "path": "mods/resourcefulconfig-forge-1.20.1-2.1.2.jar"
+            }
+          },
+          {
+            "id": "resourcefullib-forge-1.20.1-2.1.29.jar",
+            "name": "resourcefullib-forge-1.20.1-2.1.29.jar",
+            "type": "File",
+            "artifact": {
+              "size": 432753,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/resourcefullib-forge-1.20.1-2.1.29.jar",
+              "MD5": "a040c6cc86f653fddf280ff3af9068f0",
+              "path": "mods/resourcefullib-forge-1.20.1-2.1.29.jar"
+            }
+          },
+          {
+            "id": "rhino-forge-2001.2.2-build.18.jar",
+            "name": "rhino-forge-2001.2.2-build.18.jar",
+            "type": "File",
+            "artifact": {
+              "size": 1782275,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/rhino-forge-2001.2.2-build.18.jar",
+              "MD5": "d0ee9715edfcb029f59687a08fb88a53",
+              "path": "mods/rhino-forge-2001.2.2-build.18.jar"
+            }
+          },
+          {
+            "id": "SimpleTMsForge-1.1.2.jar",
+            "name": "SimpleTMsForge-1.1.2.jar",
+            "type": "File",
+            "artifact": {
+              "size": 1598405,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/SimpleTMsForge-1.1.2.jar",
+              "MD5": "4cc6acc6a925ac20abbe84a688503af9",
+              "path": "mods/SimpleTMsForge-1.1.2.jar"
+            }
+          },
+          {
+            "id": "sliceanddice-forge-3.2.1.jar",
+            "name": "sliceanddice-forge-3.2.1.jar",
+            "type": "File",
+            "artifact": {
+              "size": 228307,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/sliceanddice-forge-3.2.1.jar",
+              "MD5": "63aa900b128d75c6a258f21c5a825694",
+              "path": "mods/sliceanddice-forge-3.2.1.jar"
+            }
+          },
+          {
+            "id": "Steam_Rails-1.6.4+forge-mc1.20.1.jar",
+            "name": "Steam_Rails-1.6.4+forge-mc1.20.1.jar",
+            "type": "File",
+            "artifact": {
+              "size": 9096035,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/Steam_Rails-1.6.4+forge-mc1.20.1.jar",
+              "MD5": "a166aa861a8c584c89271731d882a45e",
+              "path": "mods/Steam_Rails-1.6.4+forge-mc1.20.1.jar"
+            }
+          },
+          {
+            "id": "storagedrawers-1.20.1-12.0.3.jar",
+            "name": "storagedrawers-1.20.1-12.0.3.jar",
+            "type": "File",
+            "artifact": {
+              "size": 583143,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/storagedrawers-1.20.1-12.0.3.jar",
+              "MD5": "c3931732aba75370208269b7e3a92b6d",
+              "path": "mods/storagedrawers-1.20.1-12.0.3.jar"
+            }
+          },
+          {
+            "id": "supplementaries-1.20-2.8.5.jar",
+            "name": "supplementaries-1.20-2.8.5.jar",
+            "type": "File",
+            "artifact": {
+              "size": 14328813,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/supplementaries-1.20-2.8.5.jar",
+              "MD5": "f66eb5861c5911532c2f2bf689d022ee",
+              "path": "mods/supplementaries-1.20-2.8.5.jar"
+            }
+          },
+          {
+            "id": "techutilities-1.0.jar",
+            "name": "techutilities-1.0.jar",
+            "type": "File",
+            "artifact": {
+              "size": 19633,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/techutilities-1.0.jar",
+              "MD5": "91462b644225bae25d44352ff0912ce2",
+              "path": "mods/techutilities-1.0.jar"
+            }
+          },
+          {
+            "id": "titanium-1.20.1-3.8.28.jar",
+            "name": "titanium-1.20.1-3.8.28.jar",
+            "type": "File",
+            "artifact": {
+              "size": 621854,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/titanium-1.20.1-3.8.28.jar",
+              "MD5": "9e9d8be9fe1ca4f28c9ef824ff3d098c",
+              "path": "mods/titanium-1.20.1-3.8.28.jar"
+            }
+          },
+          {
+            "id": "Tomtaru's Cobblemon  Farmer's Delight Tweaks - 1.20.1 - B.1.2.jar",
+            "name": "Tomtaru's Cobblemon  Farmer's Delight Tweaks - 1.20.1 - B.1.2.jar",
+            "type": "File",
+            "artifact": {
+              "size": 35702,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/Tomtaru's%20Cobblemon%20%20Farmer's%20Delight%20Tweaks%20-%201.20.1%20-%20B.1.2.jar",
+              "MD5": "85218b99677ce580e849c385a3b748be",
+              "path": "mods/Tomtaru's Cobblemon  Farmer's Delight Tweaks - 1.20.1 - B.1.2.jar"
+            }
+          },
+          {
+            "id": "trainutilities-forge-2.2.0.jar",
+            "name": "trainutilities-forge-2.2.0.jar",
+            "type": "File",
+            "artifact": {
+              "size": 3444553,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/trainutilities-forge-2.2.0.jar",
+              "MD5": "ea58e249b015dc10b4239e1499121451",
+              "path": "mods/trainutilities-forge-2.2.0.jar"
+            }
+          },
+          {
+            "id": "worldedit-mod-7.2.15.jar",
+            "name": "worldedit-mod-7.2.15.jar",
+            "type": "File",
+            "artifact": {
+              "size": 5825402,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/worldedit-mod-7.2.15.jar",
+              "MD5": "bd0e7cff7896348faab92e43300d0639",
+              "path": "mods/worldedit-mod-7.2.15.jar"
+            }
+          },
+          {
+            "id": "yuushya-1.20.1-forge-2.2.0.jar",
+            "name": "yuushya-1.20.1-forge-2.2.0.jar",
+            "type": "File",
+            "artifact": {
+              "size": 15315076,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/yuushya-1.20.1-forge-2.2.0.jar",
+              "MD5": "1bd5f4888e3062cc82e7f270c9172886",
+              "path": "mods/yuushya-1.20.1-forge-2.2.0.jar"
+            }
+          },
+          {
+            "id": "ZeroCore2-1.20.1-2.1.45.jar",
+            "name": "ZeroCore2-1.20.1-2.1.45.jar",
+            "type": "File",
+            "artifact": {
+              "size": 1338662,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/mods/ZeroCore2-1.20.1-2.1.45.jar",
+              "MD5": "58c838d9a7bcc24b1809d631e2955bdf",
+              "path": "mods/ZeroCore2-1.20.1-2.1.45.jar"
+            }
+          },
+          {
+            "id": "AshiMons_ver1.3.zip",
+            "name": "AshiMons_ver1.3.zip",
+            "type": "File",
+            "artifact": {
+              "size": 267206,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/resourcepacks/AshiMons_ver1.3.zip",
+              "MD5": "db3453689a70847386d15d457c0e5544",
+              "path": "resourcepacks/AshiMons_ver1.3.zip"
+            }
+          },
+          {
+            "id": "CobbleTowns v1.0.2.zip",
+            "name": "CobbleTowns v1.0.2.zip",
+            "type": "File",
+            "artifact": {
+              "size": 630817,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/resourcepacks/CobbleTowns%20v1.0.2.zip",
+              "MD5": "73dc5f922676335ae5dc0f96bc35237d",
+              "path": "resourcepacks/CobbleTowns v1.0.2.zip"
+            }
+          },
+          {
+            "id": "cobble_cats.zip",
+            "name": "cobble_cats.zip",
+            "type": "File",
+            "artifact": {
+              "size": 262237,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/resourcepacks/cobble_cats.zip",
+              "MD5": "16a916770a67c0abba6098ccb0883297",
+              "path": "resourcepacks/cobble_cats.zip"
+            }
+          },
+          {
+            "id": "diance.zip",
+            "name": "diance.zip",
+            "type": "File",
+            "artifact": {
+              "size": 150991,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/resourcepacks/diance.zip",
+              "MD5": "3c7e272551034ec7f2c2d0bc60bbe403",
+              "path": "resourcepacks/diance.zip"
+            }
+          },
+          {
+            "id": "Fossil_Hybrids!BETA 1.01.zip",
+            "name": "Fossil_Hybrids!BETA 1.01.zip",
+            "type": "File",
+            "artifact": {
+              "size": 590173,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/resourcepacks/Fossil_Hybrids!BETA%201.01.zip",
+              "MD5": "45f1be0accc1415a83464810391a749a",
+              "path": "resourcepacks/Fossil_Hybrids!BETA 1.01.zip"
+            }
+          },
+          {
+            "id": "Genomons [1.5.1].zip",
+            "name": "Genomons [1.5.1].zip",
+            "type": "File",
+            "artifact": {
+              "size": 872185,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/resourcepacks/Genomons%20[1.5.1].zip",
+              "MD5": "87232a4c97cd2cebb5848841340dae6f",
+              "path": "resourcepacks/Genomons [1.5.1].zip"
+            }
+          },
+          {
+            "id": "HiddenMons [Cobblemon] v0.5.3.zip",
+            "name": "HiddenMons [Cobblemon] v0.5.3.zip",
+            "type": "File",
+            "artifact": {
+              "size": 400001,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/resourcepacks/HiddenMons%20[Cobblemon]%20v0.5.3.zip",
+              "MD5": "6afd28598031736a46a0268940ec6002",
+              "path": "resourcepacks/HiddenMons [Cobblemon] v0.5.3.zip"
+            }
+          },
+          {
+            "id": "Jacturne.zip",
+            "name": "Jacturne.zip",
+            "type": "File",
+            "artifact": {
+              "size": 238485,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/resourcepacks/Jacturne.zip",
+              "MD5": "10fca46fb800f710f4f970426e6264ef",
+              "path": "resourcepacks/Jacturne.zip"
+            }
+          },
+          {
+            "id": "Kale's Collection [v1.7].zip",
+            "name": "Kale's Collection [v1.7].zip",
+            "type": "File",
+            "artifact": {
+              "size": 925429,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/resourcepacks/Kale's%20Collection%20[v1.7].zip",
+              "MD5": "e9c98232102410c85d7aba879037063e",
+              "path": "resourcepacks/Kale's Collection [v1.7].zip"
+            }
+          },
+          {
+            "id": "Legendary Structures v1.1.1.zip",
+            "name": "Legendary Structures v1.1.1.zip",
+            "type": "File",
+            "artifact": {
+              "size": 91393,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/resourcepacks/Legendary%20Structures%20v1.1.1.zip",
+              "MD5": "dd05224f2cd111f66ca11edb67da9622",
+              "path": "resourcepacks/Legendary Structures v1.1.1.zip"
+            }
+          },
+          {
+            "id": "MissingMon_v3.0 [METALIC MADNESS].zip",
+            "name": "MissingMon_v3.0 [METALIC MADNESS].zip",
+            "type": "File",
+            "artifact": {
+              "size": 1126163,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/resourcepacks/MissingMon_v3.0%20[METALIC%20MADNESS].zip",
+              "MD5": "50ee5d54183d83e165e8fe3b3fad7530",
+              "path": "resourcepacks/MissingMon_v3.0 [METALIC MADNESS].zip"
+            }
+          },
+          {
+            "id": "MysticMons_v2.0.1.zip",
+            "name": "MysticMons_v2.0.1.zip",
+            "type": "File",
+            "artifact": {
+              "size": 921253,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/resourcepacks/MysticMons_v2.0.1.zip",
+              "MD5": "66a79cffbd3d26b72e47e26ac3f5440c",
+              "path": "resourcepacks/MysticMons_v2.0.1.zip"
+            }
+          },
+          {
+            "id": "PigeonPack.zip",
+            "name": "PigeonPack.zip",
+            "type": "File",
+            "artifact": {
+              "size": 322736,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/resourcepacks/PigeonPack.zip",
+              "MD5": "78439f9f81da3ab3a48517ed864600c3",
+              "path": "resourcepacks/PigeonPack.zip"
+            }
+          },
+          {
+            "id": "pokemans_v9.72.zip",
+            "name": "pokemans_v9.72.zip",
+            "type": "File",
+            "artifact": {
+              "size": 792936,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/resourcepacks/pokemans_v9.72.zip",
+              "MD5": "153a80ec017819c7b69dcddd44939e88",
+              "path": "resourcepacks/pokemans_v9.72.zip"
+            }
+          },
+          {
+            "id": "Pokémon Fishing v1.1.4 [1.20.1-v1.4+].zip",
+            "name": "Pokémon Fishing v1.1.4 [1.20.1-v1.4+].zip",
+            "type": "File",
+            "artifact": {
+              "size": 125935,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/resourcepacks/Pok%C3%A9mon%20Fishing%20v1.1.4%20[1.20.1-v1.4+].zip",
+              "MD5": "80797fbf300e5c716ad72c921ce52334",
+              "path": "resourcepacks/Pokémon Fishing v1.1.4 [1.20.1-v1.4+].zip"
+            }
+          },
+          {
+            "id": "SaltMons v2.0.zip",
+            "name": "SaltMons v2.0.zip",
+            "type": "File",
+            "artifact": {
+              "size": 339147,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/resourcepacks/SaltMons%20v2.0.zip",
+              "MD5": "10e24039efabed4e416567da01deb953",
+              "path": "resourcepacks/SaltMons v2.0.zip"
+            }
+          },
+          {
+            "id": "Wavimons1.1.zip",
+            "name": "Wavimons1.1.zip",
+            "type": "File",
+            "artifact": {
+              "size": 173020,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/resourcepacks/Wavimons1.1.zip",
+              "MD5": "913a2164398a8aa420ff60f3535b8726",
+              "path": "resourcepacks/Wavimons1.1.zip"
+            }
+          },
+          {
+            "id": "ComplementaryUnbound_r5.0.zip",
+            "name": "ComplementaryUnbound_r5.0.zip",
+            "type": "File",
+            "artifact": {
+              "size": 402262,
+              "url": "https://mc.berryblue.fr/servers/BerryBlue-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.0.zip",
+              "MD5": "975991ee758f3b3d1ef17b0d295b5b8c",
+              "path": "shaderpacks/ComplementaryUnbound_r5.0.zip"
+            }
+          }
+        ]
+      }
+    ]
+  }
