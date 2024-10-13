@@ -1,5 +1,5 @@
 {
-  "$schema": "file:///D:/NebulaRoot/schemas/DistroMetaSchema.schema.json",
+  "$schema": "file:///C:/Devellopement/Code/Minecraft/UTILITAIRES/Nebula/NebulaOutput/schemas/DistroMetaSchema.schema.json",
   "meta": {
     "rss": "<LINK TO RSS FEED>",
     "discord": {

@@ -22,7 +22,7 @@
       "name": "BerryBlue (Minecraft 1.20.1)",
       "description": "BerryBlue Running Minecraft 1.20.1 (Forge v47.3.0)",
       "icon": "https://mc.berryblue.fr/icon.png",
-      "version": "0.b.1",
+      "version": "0.b.2",
       "address": "mc.berryblue.fr",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -483,6 +483,16 @@
           }
         },
         {
+          "id": "squeek.appleskin:appleskin:2.5.1+mc1.20.1@jar",
+          "name": "AppleSkin",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 47428,
+            "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/forgemods/required/appleskin-forge-mc1.20.1-2.5.1.jar",
+            "MD5": "dae63cea9c951dda542a4005ceef3953"
+          }
+        },
+        {
           "id": "me.ramidzkh.mekae2:appmek:1.4.2@jar",
           "name": "Applied Mekanistics",
           "type": "ForgeMod",
@@ -528,8 +538,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 396130,
-            "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/forgemods/required/betterfoliage-5.0.2.jar",
+            "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/forgemods/optionaloff/betterfoliage-5.0.2.jar",
             "MD5": "22f5753234b465c44688f9555acb4713"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -549,7 +563,7 @@
           "artifact": {
             "size": 40125,
             "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/forgemods/required/caelus-forge-3.2.0+1.20.1.jar",
-            "MD5": "ac909c99a2a96ead2073f98bf0dd7b78"
+            "MD5": "e37854c44b1849b753afc4a205f31b46"
           }
         },
         {
@@ -590,6 +604,16 @@
             "size": 6002846,
             "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/forgemods/required/cluttered-2.1-1.20.1.jar",
             "MD5": "359422bfdb492eada7067f41db746cff"
+          }
+        },
+        {
+          "id": "com.rafacasari.mod:cobbledex:1.1.0@jar",
+          "name": "Cobbledex",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 478973,
+            "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/forgemods/required/cobbledex-1.20.1-forge-1.1.0.jar",
+            "MD5": "29bbb6ad8e9baafc97b2bd832bef352c"
           }
         },
         {
@@ -1433,13 +1457,13 @@
           }
         },
         {
-          "id": "fr.thoridan.sl:techutilities:1.0@jar",
+          "id": "fr.thoridan:techutilities:1.0@jar",
           "name": "Meka Seal",
           "type": "ForgeMod",
           "artifact": {
-            "size": 19633,
-            "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/forgemods/required/techutilities-1.0.jar",
-            "MD5": "91462b644225bae25d44352ff0912ce2"
+            "size": 27299,
+            "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/forgemods/required/techutilities-1.1.jar",
+            "MD5": "4b1f7b19a1cd92fd5a025729aaa72442"
           }
         },
         {
@@ -1529,6 +1553,17 @@
           }
         },
         {
+          "id": "createaddition-common.toml",
+          "name": "createaddition-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 4443,
+            "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/files/config/createaddition-common.toml",
+            "MD5": "7551293e504ab37d870edc6669c69795",
+            "path": "config/createaddition-common.toml"
+          }
+        },
+        {
           "id": "AshiMons_ver1.3.zip",
           "name": "AshiMons_ver1.3.zip",
           "type": "File",
@@ -1537,6 +1572,17 @@
             "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/files/datapacks/AshiMons_ver1.3.zip",
             "MD5": "db3453689a70847386d15d457c0e5544",
             "path": "datapacks/AshiMons_ver1.3.zip"
+          }
+        },
+        {
+          "id": "Cobblemon Shiny Effects v1.1.zip",
+          "name": "Cobblemon Shiny Effects v1.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 4039,
+            "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/files/datapacks/Cobblemon%20Shiny%20Effects%20v1.1.zip",
+            "MD5": "71b662c59b1c1938a3ecbf1331074803",
+            "path": "datapacks/Cobblemon Shiny Effects v1.1.zip"
           }
         },
         {
@@ -1647,6 +1693,17 @@
             "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/files/datapacks/MissingMon_v3.0%20[METALIC%20MADNESS].zip",
             "MD5": "50ee5d54183d83e165e8fe3b3fad7530",
             "path": "datapacks/MissingMon_v3.0 [METALIC MADNESS].zip"
+          }
+        },
+        {
+          "id": "MoreMons - v0.5.3.zip",
+          "name": "MoreMons - v0.5.3.zip",
+          "type": "File",
+          "artifact": {
+            "size": 280820,
+            "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/files/datapacks/MoreMons%20-%20v0.5.3.zip",
+            "MD5": "6678d88e5809a588287604a0fdba4009",
+            "path": "datapacks/MoreMons - v0.5.3.zip"
           }
         },
         {
@@ -1834,6 +1891,17 @@
             "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/files/resourcepacks/MissingMon_v3.0%20[METALIC%20MADNESS].zip",
             "MD5": "50ee5d54183d83e165e8fe3b3fad7530",
             "path": "resourcepacks/MissingMon_v3.0 [METALIC MADNESS].zip"
+          }
+        },
+        {
+          "id": "MoreMons - v0.5.3.zip",
+          "name": "MoreMons - v0.5.3.zip",
+          "type": "File",
+          "artifact": {
+            "size": 280820,
+            "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/files/resourcepacks/MoreMons%20-%20v0.5.3.zip",
+            "MD5": "6678d88e5809a588287604a0fdba4009",
+            "path": "resourcepacks/MoreMons - v0.5.3.zip"
           }
         },
         {
