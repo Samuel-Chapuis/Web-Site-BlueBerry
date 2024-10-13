@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///D:/NebulaRoot/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "0.b.1",
+    "name": "BerryBlue (Minecraft 1.20.1)",
+    "description": "BerryBlue Running Minecraft 1.20.1 (Forge v47.3.0)",
+    "icon": "https://mc.berryblue.fr/icon.png",
+    "address": "mc.berryblue.fr",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "47.3.0"
+  },
+  "untrackedFiles": []
+}
