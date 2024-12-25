@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "rss": "https://mc.berryblue.fr/feed.rss",
   "update": {
         "url": "https://api.github.com/repos/Fab0uu/BerryBlue-Launcher/releases/latest",
@@ -22,7 +22,7 @@
       "name": "BerryBlue (Minecraft 1.20.1)",
       "description": "BerryBlue Running Minecraft 1.20.1 (Forge v47.3.0)",
       "icon": "https://mc.berryblue.fr/icon.png",
-      "version": "0.b.2",
+      "version": "0.b.1",
       "address": "mc.berryblue.fr",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -443,6 +443,26 @@
           ]
         },
         {
+          "id": "fr.thoridan:techutilities:1.0@jar",
+          "name": "4TechUtilities",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 850897,
+            "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/forgemods/required/4techutilities-1.3.jar",
+            "MD5": "1f1bafe89a3064afc6aadfd9bb69b043"
+          }
+        },
+        {
+          "id": "fr.thorid4n:forvegetation:0.1-1.20.1@jar",
+          "name": "4Vegetation",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 51218,
+            "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/forgemods/required/4vegetation-1.0.jar",
+            "MD5": "09ecd8a6dc7a46599820907896ea532b"
+          }
+        },
+        {
           "id": "earth.terrarium.adastra:ad_astra:1.15.18@jar",
           "name": "Ad Astra",
           "type": "ForgeMod",
@@ -604,6 +624,16 @@
             "size": 104105045,
             "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/forgemods/required/Cobblemon-forge-1.5.2+1.20.1.jar",
             "MD5": "89e9852463f198a88c7fb509a0eb5dd1"
+          }
+        },
+        {
+          "id": "generated.forgemod:mr_cobblemon_legendarystructures:2.0@jar",
+          "name": "Cobblemon: Legendary Structures",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 327261,
+            "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/forgemods/required/cobblemon-legendary-structures-2.0.jar",
+            "MD5": "ad66271321281f9bafb73b9edcd836c8"
           }
         },
         {
@@ -1457,16 +1487,6 @@
           }
         },
         {
-          "id": "fr.thoridan:techutilities:1.0@jar",
-          "name": "4TechUtilities",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 847234,
-            "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/forgemods/required/techutilities-1.0.jar",
-            "MD5": "d6bf534f1b8a08a491dc729ffa0011fa"
-          }
-        },
-        {
           "id": "com.hrznstudio:titanium:3.8.28@jar",
           "name": "Titanium",
           "type": "ForgeMod",
@@ -1554,14 +1574,25 @@
           }
         },
         {
-          "id": "AshiMons_ver1.3.zip",
-          "name": "AshiMons_ver1.3.zip",
+          "id": "Alacrity.zip",
+          "name": "Alacrity.zip",
           "type": "File",
           "artifact": {
-            "size": 267206,
-            "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/files/datapacks/AshiMons_ver1.3.zip",
-            "MD5": "db3453689a70847386d15d457c0e5544",
-            "path": "datapacks/AshiMons_ver1.3.zip"
+            "size": 48206746,
+            "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/files/datapacks/Alacrity.zip",
+            "MD5": "6acb120595d1ffb178fddc432fd9f3bf",
+            "path": "datapacks/Alacrity.zip"
+          }
+        },
+        {
+          "id": "Better-Leaves-8.1-1.20+.zip",
+          "name": "Better-Leaves-8.1-1.20+.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1109436,
+            "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/files/datapacks/Better-Leaves-8.1-1.20+.zip",
+            "MD5": "b9868f9592b2e8335889e56e242db507",
+            "path": "datapacks/Better-Leaves-8.1-1.20+.zip"
           }
         },
         {
@@ -1587,28 +1618,6 @@
           }
         },
         {
-          "id": "cobble_cats.zip",
-          "name": "cobble_cats.zip",
-          "type": "File",
-          "artifact": {
-            "size": 262237,
-            "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/files/datapacks/cobble_cats.zip",
-            "MD5": "16a916770a67c0abba6098ccb0883297",
-            "path": "datapacks/cobble_cats.zip"
-          }
-        },
-        {
-          "id": "diance.zip",
-          "name": "diance.zip",
-          "type": "File",
-          "artifact": {
-            "size": 150991,
-            "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/files/datapacks/diance.zip",
-            "MD5": "3c7e272551034ec7f2c2d0bc60bbe403",
-            "path": "datapacks/diance.zip"
-          }
-        },
-        {
           "id": "Fossil_Hybrids!BETA 1.01.zip",
           "name": "Fossil_Hybrids!BETA 1.01.zip",
           "type": "File",
@@ -1617,28 +1626,6 @@
             "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/files/datapacks/Fossil_Hybrids!BETA%201.01.zip",
             "MD5": "45f1be0accc1415a83464810391a749a",
             "path": "datapacks/Fossil_Hybrids!BETA 1.01.zip"
-          }
-        },
-        {
-          "id": "Genomons [1.5.1].zip",
-          "name": "Genomons [1.5.1].zip",
-          "type": "File",
-          "artifact": {
-            "size": 822163,
-            "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/files/datapacks/Genomons%20[1.5.1].zip",
-            "MD5": "cde48ffb3bfcf0661dd006eb4c17b229",
-            "path": "datapacks/Genomons [1.5.1].zip"
-          }
-        },
-        {
-          "id": "HiddenMons [Cobblemon] v0.5.3.zip",
-          "name": "HiddenMons [Cobblemon] v0.5.3.zip",
-          "type": "File",
-          "artifact": {
-            "size": 400001,
-            "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/files/datapacks/HiddenMons%20[Cobblemon]%20v0.5.3.zip",
-            "MD5": "6afd28598031736a46a0268940ec6002",
-            "path": "datapacks/HiddenMons [Cobblemon] v0.5.3.zip"
           }
         },
         {
@@ -1653,47 +1640,14 @@
           }
         },
         {
-          "id": "Kale's Collection [v1.7].zip",
-          "name": "Kale's Collection [v1.7].zip",
+          "id": "Keldeo_Files.zip",
+          "name": "Keldeo_Files.zip",
           "type": "File",
           "artifact": {
-            "size": 925429,
-            "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/files/datapacks/Kale's%20Collection%20[v1.7].zip",
-            "MD5": "e9c98232102410c85d7aba879037063e",
-            "path": "datapacks/Kale's Collection [v1.7].zip"
-          }
-        },
-        {
-          "id": "Legendary Structures v1.1.1.zip",
-          "name": "Legendary Structures v1.1.1.zip",
-          "type": "File",
-          "artifact": {
-            "size": 91393,
-            "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/files/datapacks/Legendary%20Structures%20v1.1.1.zip",
-            "MD5": "dd05224f2cd111f66ca11edb67da9622",
-            "path": "datapacks/Legendary Structures v1.1.1.zip"
-          }
-        },
-        {
-          "id": "MissingMon_v3.0 [METALIC MADNESS].zip",
-          "name": "MissingMon_v3.0 [METALIC MADNESS].zip",
-          "type": "File",
-          "artifact": {
-            "size": 982536,
-            "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/files/datapacks/MissingMon_v3.0%20[METALIC%20MADNESS].zip",
-            "MD5": "05bd6f0085c2bd48b3122526ed2ed1da",
-            "path": "datapacks/MissingMon_v3.0 [METALIC MADNESS].zip"
-          }
-        },
-        {
-          "id": "MoreMons - v0.5.3.zip",
-          "name": "MoreMons - v0.5.3.zip",
-          "type": "File",
-          "artifact": {
-            "size": 280820,
-            "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/files/datapacks/MoreMons%20-%20v0.5.3.zip",
-            "MD5": "6678d88e5809a588287604a0fdba4009",
-            "path": "datapacks/MoreMons - v0.5.3.zip"
+            "size": 19015,
+            "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/files/datapacks/Keldeo_Files.zip",
+            "MD5": "2a08ba0576585647e1bc4e32bf51f616",
+            "path": "datapacks/Keldeo_Files.zip"
           }
         },
         {
@@ -1708,28 +1662,6 @@
           }
         },
         {
-          "id": "PigeonPack.zip",
-          "name": "PigeonPack.zip",
-          "type": "File",
-          "artifact": {
-            "size": 322736,
-            "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/files/datapacks/PigeonPack.zip",
-            "MD5": "78439f9f81da3ab3a48517ed864600c3",
-            "path": "datapacks/PigeonPack.zip"
-          }
-        },
-        {
-          "id": "Pokemans_v12.3.zip",
-          "name": "Pokemans_v12.3.zip",
-          "type": "File",
-          "artifact": {
-            "size": 1263654,
-            "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/files/datapacks/Pokemans_v12.3.zip",
-            "MD5": "e79d099b2e9a3b68a7b70df65161d359",
-            "path": "datapacks/Pokemans_v12.3.zip"
-          }
-        },
-        {
           "id": "Pokémon Fishing v1.1.4 [1.20.1-v1.4+].zip",
           "name": "Pokémon Fishing v1.1.4 [1.20.1-v1.4+].zip",
           "type": "File",
@@ -1738,28 +1670,6 @@
             "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/files/datapacks/Pok%C3%A9mon%20Fishing%20v1.1.4%20[1.20.1-v1.4+].zip",
             "MD5": "80797fbf300e5c716ad72c921ce52334",
             "path": "datapacks/Pokémon Fishing v1.1.4 [1.20.1-v1.4+].zip"
-          }
-        },
-        {
-          "id": "SaltMons v2.0.zip",
-          "name": "SaltMons v2.0.zip",
-          "type": "File",
-          "artifact": {
-            "size": 312923,
-            "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/files/datapacks/SaltMons%20v2.0.zip",
-            "MD5": "30ae558d2630f2aab93e3dcdd5a93def",
-            "path": "datapacks/SaltMons v2.0.zip"
-          }
-        },
-        {
-          "id": "Wavimons1.1.zip",
-          "name": "Wavimons1.1.zip",
-          "type": "File",
-          "artifact": {
-            "size": 173020,
-            "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/files/datapacks/Wavimons1.1.zip",
-            "MD5": "913a2164398a8aa420ff60f3535b8726",
-            "path": "datapacks/Wavimons1.1.zip"
           }
         },
         {
@@ -1774,14 +1684,14 @@
           }
         },
         {
-          "id": "AshiMons_ver1.3.zip",
-          "name": "AshiMons_ver1.3.zip",
+          "id": "AllTheMons Release 8.1 V127.zip",
+          "name": "AllTheMons Release 8.1 V127.zip",
           "type": "File",
           "artifact": {
-            "size": 267206,
-            "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/files/resourcepacks/AshiMons_ver1.3.zip",
-            "MD5": "db3453689a70847386d15d457c0e5544",
-            "path": "resourcepacks/AshiMons_ver1.3.zip"
+            "size": 7577745,
+            "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/files/resourcepacks/AllTheMons%20Release%208.1%20V127.zip",
+            "MD5": "3a3ba90b1c0a3ae38470d4008b5a2dbb",
+            "path": "resourcepacks/AllTheMons Release 8.1 V127.zip"
           }
         },
         {
@@ -1818,28 +1728,6 @@
           }
         },
         {
-          "id": "cobble_cats.zip",
-          "name": "cobble_cats.zip",
-          "type": "File",
-          "artifact": {
-            "size": 262237,
-            "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/files/resourcepacks/cobble_cats.zip",
-            "MD5": "16a916770a67c0abba6098ccb0883297",
-            "path": "resourcepacks/cobble_cats.zip"
-          }
-        },
-        {
-          "id": "diance.zip",
-          "name": "diance.zip",
-          "type": "File",
-          "artifact": {
-            "size": 150991,
-            "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/files/resourcepacks/diance.zip",
-            "MD5": "3c7e272551034ec7f2c2d0bc60bbe403",
-            "path": "resourcepacks/diance.zip"
-          }
-        },
-        {
           "id": "Dramatic Skys Demo 1.5.3.30.zip",
           "name": "Dramatic Skys Demo 1.5.3.30.zip",
           "type": "File",
@@ -1862,28 +1750,6 @@
           }
         },
         {
-          "id": "Genomons [1.5.1].zip",
-          "name": "Genomons [1.5.1].zip",
-          "type": "File",
-          "artifact": {
-            "size": 822163,
-            "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/files/resourcepacks/Genomons%20[1.5.1].zip",
-            "MD5": "cde48ffb3bfcf0661dd006eb4c17b229",
-            "path": "resourcepacks/Genomons [1.5.1].zip"
-          }
-        },
-        {
-          "id": "HiddenMons [Cobblemon] v0.5.3.zip",
-          "name": "HiddenMons [Cobblemon] v0.5.3.zip",
-          "type": "File",
-          "artifact": {
-            "size": 400001,
-            "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/files/resourcepacks/HiddenMons%20[Cobblemon]%20v0.5.3.zip",
-            "MD5": "6afd28598031736a46a0268940ec6002",
-            "path": "resourcepacks/HiddenMons [Cobblemon] v0.5.3.zip"
-          }
-        },
-        {
           "id": "Jacturne.zip",
           "name": "Jacturne.zip",
           "type": "File",
@@ -1895,47 +1761,14 @@
           }
         },
         {
-          "id": "Kale's Collection [v1.7].zip",
-          "name": "Kale's Collection [v1.7].zip",
+          "id": "Keldeo_Files.zip",
+          "name": "Keldeo_Files.zip",
           "type": "File",
           "artifact": {
-            "size": 925429,
-            "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/files/resourcepacks/Kale's%20Collection%20[v1.7].zip",
-            "MD5": "e9c98232102410c85d7aba879037063e",
-            "path": "resourcepacks/Kale's Collection [v1.7].zip"
-          }
-        },
-        {
-          "id": "Legendary Structures v1.1.1.zip",
-          "name": "Legendary Structures v1.1.1.zip",
-          "type": "File",
-          "artifact": {
-            "size": 91393,
-            "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/files/resourcepacks/Legendary%20Structures%20v1.1.1.zip",
-            "MD5": "dd05224f2cd111f66ca11edb67da9622",
-            "path": "resourcepacks/Legendary Structures v1.1.1.zip"
-          }
-        },
-        {
-          "id": "MissingMon_v3.0 [METALIC MADNESS].zip",
-          "name": "MissingMon_v3.0 [METALIC MADNESS].zip",
-          "type": "File",
-          "artifact": {
-            "size": 982536,
-            "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/files/resourcepacks/MissingMon_v3.0%20[METALIC%20MADNESS].zip",
-            "MD5": "05bd6f0085c2bd48b3122526ed2ed1da",
-            "path": "resourcepacks/MissingMon_v3.0 [METALIC MADNESS].zip"
-          }
-        },
-        {
-          "id": "MoreMons - v0.5.3.zip",
-          "name": "MoreMons - v0.5.3.zip",
-          "type": "File",
-          "artifact": {
-            "size": 280820,
-            "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/files/resourcepacks/MoreMons%20-%20v0.5.3.zip",
-            "MD5": "6678d88e5809a588287604a0fdba4009",
-            "path": "resourcepacks/MoreMons - v0.5.3.zip"
+            "size": 19015,
+            "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/files/resourcepacks/Keldeo_Files.zip",
+            "MD5": "2a08ba0576585647e1bc4e32bf51f616",
+            "path": "resourcepacks/Keldeo_Files.zip"
           }
         },
         {
@@ -1950,28 +1783,6 @@
           }
         },
         {
-          "id": "PigeonPack.zip",
-          "name": "PigeonPack.zip",
-          "type": "File",
-          "artifact": {
-            "size": 322736,
-            "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/files/resourcepacks/PigeonPack.zip",
-            "MD5": "78439f9f81da3ab3a48517ed864600c3",
-            "path": "resourcepacks/PigeonPack.zip"
-          }
-        },
-        {
-          "id": "Pokemans_v12.3.zip",
-          "name": "Pokemans_v12.3.zip",
-          "type": "File",
-          "artifact": {
-            "size": 1263654,
-            "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/files/resourcepacks/Pokemans_v12.3.zip",
-            "MD5": "e79d099b2e9a3b68a7b70df65161d359",
-            "path": "resourcepacks/Pokemans_v12.3.zip"
-          }
-        },
-        {
           "id": "Pokémon Fishing v1.1.4 [1.20.1-v1.4+].zip",
           "name": "Pokémon Fishing v1.1.4 [1.20.1-v1.4+].zip",
           "type": "File",
@@ -1980,28 +1791,6 @@
             "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/files/resourcepacks/Pok%C3%A9mon%20Fishing%20v1.1.4%20[1.20.1-v1.4+].zip",
             "MD5": "80797fbf300e5c716ad72c921ce52334",
             "path": "resourcepacks/Pokémon Fishing v1.1.4 [1.20.1-v1.4+].zip"
-          }
-        },
-        {
-          "id": "SaltMons v2.0.zip",
-          "name": "SaltMons v2.0.zip",
-          "type": "File",
-          "artifact": {
-            "size": 312923,
-            "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/files/resourcepacks/SaltMons%20v2.0.zip",
-            "MD5": "30ae558d2630f2aab93e3dcdd5a93def",
-            "path": "resourcepacks/SaltMons v2.0.zip"
-          }
-        },
-        {
-          "id": "Wavimons1.1.zip",
-          "name": "Wavimons1.1.zip",
-          "type": "File",
-          "artifact": {
-            "size": 173020,
-            "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/files/resourcepacks/Wavimons1.1.zip",
-            "MD5": "913a2164398a8aa420ff60f3535b8726",
-            "path": "resourcepacks/Wavimons1.1.zip"
           }
         },
         {
