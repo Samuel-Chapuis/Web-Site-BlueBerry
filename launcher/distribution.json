@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.3",
   "rss": "https://mc.berryblue.fr/feed.rss",
   "update": {
         "url": "https://api.github.com/repos/Fab0uu/BerryBlue-Launcher/releases/latest",
@@ -20,9 +20,9 @@
     {
       "id": "BerryBlue-1.20.1",
       "name": "BerryBlue (Minecraft 1.20.1)",
-      "description": "BerryBlue Running Minecraft 1.20.1 (Forge v47.3.0)",
+      "description": "BerryBlue Minecraft 1.20.1",
       "icon": "https://mc.berryblue.fr/icon.png",
-      "version": "0.b.1",
+      "version": "0.b.3",
       "address": "mc.berryblue.fr",
       "minecraftVersion": "1.20.1",
       "discord": {
