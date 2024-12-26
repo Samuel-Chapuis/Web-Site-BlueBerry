@@ -1,21 +1,11 @@
 {
-  "version": "1.0.3",
-  "rss": "https://mc.berryblue.fr/feed.rss",
-  "update": {
-        "url": "https://api.github.com/repos/Fab0uu/BerryBlue-Launcher/releases/latest",
-        "downloadUrl": "https://github.com/Fab0uu/BerryBlue-Launcher/releases/download/",
-        "changelogUrl": "https://github.com/Fab0uu/BerryBlue-Launcher/releases"
-    },
+  "version": "1.0.0",
+  "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
     "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
     "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
   },
-  "java": {
-        "version": "17", 
-        "url": "https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe",
-        "path": "C:/Program Files/Java/jdk-17.0.8/bin/javaw.exe"
-    },
   "servers": [
     {
       "id": "BerryBlue-1.20.1",
@@ -447,9 +437,9 @@
           "name": "4TechUtilities",
           "type": "ForgeMod",
           "artifact": {
-            "size": 850897,
-            "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/forgemods/required/4techutilities-1.3.jar",
-            "MD5": "1f1bafe89a3064afc6aadfd9bb69b043"
+            "size": 851195,
+            "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/forgemods/required/4techutilities-1.4.jar",
+            "MD5": "a8875f475861437de4ff344da2a1c732"
           }
         },
         {
@@ -457,9 +447,9 @@
           "name": "4Vegetation",
           "type": "ForgeMod",
           "artifact": {
-            "size": 51218,
-            "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/forgemods/required/4vegetation-1.0.jar",
-            "MD5": "09ecd8a6dc7a46599820907896ea532b"
+            "size": 49670,
+            "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/forgemods/required/4vegetation-1.1.jar",
+            "MD5": "223498d84964512a4b7e2ee49b934a9e"
           }
         },
         {
