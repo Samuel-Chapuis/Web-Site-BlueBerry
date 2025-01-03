@@ -22,7 +22,7 @@
       "name": "BerryBlue (Minecraft 1.20.1)",
       "description": "BerryBlue Minecraft 1.20.1",
       "icon": "https://mc.berryblue.fr/icon.png",
-      "version": "0.b.4",
+      "version": "0.b.5",
       "address": "mc.berryblue.fr",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -447,9 +447,9 @@
           "name": "4TechUtilities",
           "type": "ForgeMod",
           "artifact": {
-            "size": 851195,
-            "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/forgemods/required/4techutilities-1.4.jar",
-            "MD5": "a8875f475861437de4ff344da2a1c732"
+            "size": 854081,
+            "url": "https://mc.berryblue.fr/launcher/servers/BerryBlue-1.20.1/forgemods/required/4techutilities-1.5.jar",
+            "MD5": "14b361b2d510c53610ac6bf0f024c15c"
           }
         },
         {
